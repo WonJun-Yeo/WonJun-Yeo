@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WonJun-Yeo/WonJun-Yeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=RubisCo%20GitHub&fontSize=90&animation=fadeIn)
 
+### ⚡ Tech Sack
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)]()
@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black)]()
+
+### 💬 To Day
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonJun-Yeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

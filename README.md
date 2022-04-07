@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=RubisCo%20render&fontSize=90)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)]()
+[![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=CSS&logoColor=black)]()
+[![SCSS](https://img.shields.io/badge/SCSS-F7DF1E?style=flat-square&logo=SCSS&logoColor=black)]()
+[![jQuery](https://img.shields.io/badge/jQuery-F7DF1E?style=flat-square&logo=jQuery&logoColor=black)]()

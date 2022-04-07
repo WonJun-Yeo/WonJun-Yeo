@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 ### 📫 Me
 [![Vlog](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=black)](https://blog.naver.com/rbgh004)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/ggoya_wj)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black)](mailto:rbgh004@gmail.com)
 

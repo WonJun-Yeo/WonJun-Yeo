@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=RubisCo%20🌱&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Hi!I'm%20RubisCo%20🌱&fontSize=90&animation=fadeIn)
 
 ### ⚡ Tech Sack
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonJun-Yeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🤔 Me
+### 📫 Me
 [![Vlog](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=black)](https://blog.naver.com/rbgh004)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/ggoya_wj)
 

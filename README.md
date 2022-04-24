@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Hi!%20I'm%20RubisCo%20🌱&fontSize=60&animation=fadeIn)
 
-### ⚡ Tech Sack
+### ⚡ Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)]()
@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonJun-Yeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 📫 Me
+### 😄 Me
 [![Vlog](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=black)](https://blog.naver.com/rbgh004)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/ggoya_wj)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=black)](mailto:rbgh004@gmail.com)
 
+### 📫 Beakjoon solved rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rbgh007)](https://solved.ac/rbgh007)
